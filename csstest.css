@@ -1,0 +1,13 @@
+div#test{
+	font-size:36px;
+	font-weight: bold;
+	font-family: "メイリオ";
+
+
+}
+
+footer {
+  bottom: 0;
+  height: 5em;
+  position: absolute;
+}
